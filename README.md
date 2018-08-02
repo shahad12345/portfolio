@@ -9,6 +9,6 @@ home page
  <div align="cente">welcome to html</div>
 <br>lter1ec
   <p>2ter1ec
-    <front size="20" color="green">html</font>
+    <font size="70" color="plo">html</font>
 welcome to html
 </body>
